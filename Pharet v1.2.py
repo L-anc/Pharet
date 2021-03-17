@@ -353,7 +353,7 @@ def genTXT():
 			f.write(str(truncate(x,6))+"     "+str(truncate(arry[forcount],6))+"      "+str(truncate(arrsin[forcount],6))+'\n')
 			forcount=forcount+1
 		f.write('\n')
-		f.write("#Credits to Lucas Ancieta and Dr.Daniel Haskell")
+		f.write("#Credits to Lucas Ancieta and Dr.Daniel Haskel")
 
 
 
