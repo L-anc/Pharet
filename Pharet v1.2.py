@@ -329,7 +329,7 @@ def genGraph():
 forcount=0
 def genTXT():
 
-	tkinter.messagebox.showinfo('Print Alert','Your results have been printed to the file PHAREToutput.txt in the same directory as the program')
+	tkinter.messagebox.showinfo('Print Alert','Your results have been printed to the file PHAREToutput.txt in the same directory as the program. Change the name of the file if you do not want it to be overwritten by the next print.')
 
 	global forcount
 	forcount=0
